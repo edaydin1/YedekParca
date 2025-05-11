@@ -72,7 +72,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "YedekParca.WebAPI", Version = "v1" });
 
-    // JWT Bearer Kimlik Doðrulama Ayarlarý
+    // JWT Bearer Kimlik Doï¿½rulama Ayarlarï¿½
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -80,7 +80,7 @@ builder.Services.AddSwaggerGen(c =>
         Scheme = "Bearer",
         BearerFormat = "JWT",
         In = ParameterLocation.Header,
-        Description = "JWT tokenini 'Bearer {token}' formatýnda giriniz."
+        Description = "JWT tokenini 'Bearer {token}' formatï¿½nda giriniz."
     });
 
     c.AddSecurityRequirement(new OpenApiSecurityRequirement
