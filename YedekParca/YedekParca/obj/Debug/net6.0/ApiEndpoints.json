@@ -1,0 +1,172 @@
+[
+  {
+    "ContainingType": "Business.Services.AddModelController",
+    "Method": "AddModel",
+    "RelativePath": "api/AddModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addModelDTO",
+        "Type": "Business.DTO.ModelDefDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.AddProductController",
+    "Method": "AddProduct",
+    "RelativePath": "api/AddProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addProductDTO",
+        "Type": "Business.DTO.AddProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.AddStockController",
+    "Method": "AddStock",
+    "RelativePath": "api/AddStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addStockDTO",
+        "Type": "Business.DTO.AddStockDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Data.Mapping.LoginRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.AvailableProductWithModelID",
+    "Method": "GetYedekParcalarByModelId",
+    "RelativePath": "api/AvailableProductWithModelID/model/{modelId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.GetAllProductsController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.GetModelIDByYedekParca",
+    "Method": "GetModelByProductId",
+    "RelativePath": "api/GetModelIDByYedekParca/products/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.GetStockByProductId",
+    "Method": "GetStockProductId",
+    "RelativePath": "api/GetStockByProductId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parcaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.ProductModelLinkController",
+    "Method": "AddLinkPM",
+    "RelativePath": "api/ProductModelLink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productModelLink",
+        "Type": "Business.DTO.ProductModelLinkDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.SatisController",
+    "Method": "SatisYap",
+    "RelativePath": "api/Satis",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Business.DTO.StokSatisDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YedekParca.WebAPI.Controllers.StokEkleController",
+    "Method": "SatisYap",
+    "RelativePath": "api/StokEkle",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Business.DTO.StokSatisDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

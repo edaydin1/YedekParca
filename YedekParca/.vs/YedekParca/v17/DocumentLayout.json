@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flyse\\source\\repos\\YedekParca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\stokeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\stokeklecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\stokekleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\stokekleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\satisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\satisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\productmodellinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\productmodellinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\getstockbyprodidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\getstockbyprodidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\productmodellinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\productmodellinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\getstockbyproductid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\getstockbyproductid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\getmodelidbyyedekparca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\getmodelidbyyedekparca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\getallproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\getallproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\availableproductwithmodelid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\availableproductwithmodelid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\addstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\addstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\addmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\addmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\controllers\\addproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\controllers\\addproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\stoksatisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\stoksatisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\addmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\addmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\data\\entity\\yedekparcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\entity\\yedekparcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\addstockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\addstockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\addstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\addstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\toplamparcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\toplamparcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\productmodellinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\productmodellinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\modeldefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\modeldefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\getallproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\getallproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\compatiblemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\compatiblemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\availableproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\availableproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\services\\autservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\autservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\data\\mapping\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\mapping\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\autorization\\httpmethodrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\autorization\\httpmethodrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\yedekparca\\autorization\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAB7AAB-AC24-4417-BFAC-ADDDB858FC4F}|YedekParca\\YedekParca.WebAPI.csproj|solutionrelative:yedekparca\\autorization\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\data\\validation\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\validation\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17CF86-227B-EDEC-8414-D9A4C76B5958}|Abstraction\\Abstraction.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\abstraction\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17CF86-227B-EDEC-8414-D9A4C76B5958}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\flyse\\source\\repos\\yedekparca\\business\\migrations\\20250322132423_tt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\migrations\\20250322132423_tt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Program.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Program.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Program.cs",
+              "RelativeToolTip": "YedekParca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:02:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Business\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\AppDbContext.cs",
+              "RelativeToolTip": "Business\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:11:34.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SatisController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\SatisController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\SatisController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\SatisController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\SatisController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:55:53.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StokEkleService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\StokEkleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\StokEkleService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\StokEkleService.cs",
+              "RelativeToolTip": "Business\\Services\\StokEkleService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:06:40.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetStockByProductId.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetStockByProductId.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\GetStockByProductId.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetStockByProductId.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\GetStockByProductId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:42:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetModelIDByYedekParca.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetModelIDByYedekParca.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\GetModelIDByYedekParca.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetModelIDByYedekParca.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\GetModelIDByYedekParca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:37:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\appsettings.json",
+              "RelativeDocumentMoniker": "YedekParca\\appsettings.json",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\appsettings.json",
+              "RelativeToolTip": "YedekParca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T14:03:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StokEkleController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\StokEkleController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\StokEkleController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\StokEkleController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\StokEkleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:08:29.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductModelLinkController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\ProductModelLinkController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\ProductModelLinkController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\ProductModelLinkController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\ProductModelLinkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:48:29.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SatisService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\SatisService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\SatisService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\SatisService.cs",
+              "RelativeToolTip": "Business\\Services\\SatisService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:50:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductModelLinkService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\ProductModelLinkService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ProductModelLinkService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\ProductModelLinkService.cs",
+              "RelativeToolTip": "Business\\Services\\ProductModelLinkService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:42:15.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AvailableProductWithModelID.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AvailableProductWithModelID.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\AvailableProductWithModelID.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AvailableProductWithModelID.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\AvailableProductWithModelID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:37:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetAllProductsController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\GetAllProductsController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\GetAllProductsController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\GetAllProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:58:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddModelController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddModelController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\AddModelController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddModelController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\AddModelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:02:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddProductController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\AddProductController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddProductController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\AddProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:45:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\AddProductDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\AddProductDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\AddProductDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\AddProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:57:48.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddModelService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AddModelService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\AddModelService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AddModelService.cs",
+              "RelativeToolTip": "Business\\Services\\AddModelService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:25:25.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StokSatisDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\StokSatisDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\StokSatisDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\StokSatisDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\StokSatisDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:49:56.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductModelLinkDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ProductModelLinkDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\ProductModelLinkDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ProductModelLinkDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\ProductModelLinkDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:29:42.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:57:03.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModelDefDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ModelDefDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\ModelDefDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ModelDefDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\ModelDefDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:11:52.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToplamParcaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ToplamParcaDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\ToplamParcaDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\ToplamParcaDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\ToplamParcaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:37:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\GetAllProductsService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\GetAllProductsService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\GetAllProductsService.cs",
+              "RelativeToolTip": "Business\\Services\\GetAllProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:00:50.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompatibleModel.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\CompatibleModel.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\CompatibleModel.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\CompatibleModel.cs",
+              "RelativeToolTip": "Business\\Services\\CompatibleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:16:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AutService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AutService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\AutService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AutService.cs",
+              "RelativeToolTip": "Business\\Services\\AutService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:23:16.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Entity\\Users.cs",
+              "RelativeDocumentMoniker": "Data\\Entity\\Users.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Entity\\Users.cs",
+              "RelativeToolTip": "Data\\Entity\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:53:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AvailableProducts.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AvailableProducts.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\AvailableProducts.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AvailableProducts.cs",
+              "RelativeToolTip": "Business\\Services\\AvailableProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:18:32.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Mapping\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Data\\Mapping\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Mapping\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Data\\Mapping\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:20:33.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HttpMethodRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Autorization\\HttpMethodRequirement.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Autorization\\HttpMethodRequirement.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Autorization\\HttpMethodRequirement.cs",
+              "RelativeToolTip": "YedekParca\\Autorization\\HttpMethodRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:17:30.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Autorization\\HomeController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Autorization\\HomeController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Autorization\\HomeController.cs",
+              "RelativeToolTip": "YedekParca\\Autorization\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:16:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginValidation.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Validation\\LoginValidation.cs",
+              "RelativeDocumentMoniker": "Data\\Validation\\LoginValidation.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Validation\\LoginValidation.cs",
+              "RelativeToolTip": "Data\\Validation\\LoginValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:20:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Abstraction\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Abstraction\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Abstraction\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:11:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250322132423_tt2.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Migrations\\20250322132423_tt2.cs",
+              "RelativeDocumentMoniker": "Business\\Migrations\\20250322132423_tt2.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Migrations\\20250322132423_tt2.cs",
+              "RelativeToolTip": "Business\\Migrations\\20250322132423_tt2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:24:24.014Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddStockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\AddStockDTO.cs",
+              "RelativeDocumentMoniker": "Business\\DTO\\AddStockDTO.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\DTO\\AddStockDTO.cs",
+              "RelativeToolTip": "Business\\DTO\\AddStockDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:27:11.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStockByProdIdService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\GetStockByProdIdService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\GetStockByProdIdService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\GetStockByProdIdService.cs",
+              "RelativeToolTip": "Business\\Services\\GetStockByProdIdService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:44:21.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddStockService.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AddStockService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\AddStockService.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Business\\Services\\AddStockService.cs",
+              "RelativeToolTip": "Business\\Services\\AddStockService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:29:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStockController.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddStockController.cs",
+              "RelativeDocumentMoniker": "YedekParca\\Controllers\\AddStockController.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\YedekParca\\Controllers\\AddStockController.cs",
+              "RelativeToolTip": "YedekParca\\Controllers\\AddStockController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:36:13.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YedekParcas.cs",
+              "DocumentMoniker": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Entity\\YedekParcas.cs",
+              "RelativeDocumentMoniker": "Data\\Entity\\YedekParcas.cs",
+              "ToolTip": "C:\\Users\\flyse\\source\\repos\\YedekParca\\Data\\Entity\\YedekParcas.cs",
+              "RelativeToolTip": "Data\\Entity\\YedekParcas.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvykAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:42:19.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

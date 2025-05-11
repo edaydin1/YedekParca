@@ -1,0 +1,15 @@
+C:\Users\flyse\source\repos\YedekParca\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+C:\Users\flyse\source\repos\YedekParca\Abstraction\bin\Debug\net6.0\Abstraction.dll
+C:\Users\flyse\source\repos\YedekParca\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+C:\Users\flyse\source\repos\YedekParca\Abstraction\bin\Debug\net6.0\Data.dll
+C:\Users\flyse\source\repos\YedekParca\Abstraction\bin\Debug\net6.0\Data.pdb
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstract.2E1C7800.Up2Date
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.dll
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+C:\Users\flyse\source\repos\YedekParca\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll

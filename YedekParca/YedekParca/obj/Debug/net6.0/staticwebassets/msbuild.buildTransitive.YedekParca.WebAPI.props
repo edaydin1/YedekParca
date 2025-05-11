@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\YedekParca.WebAPI.props" />
+</Project>
